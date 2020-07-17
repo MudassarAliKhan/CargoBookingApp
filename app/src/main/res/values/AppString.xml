@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="UserName">User Name</string>
+    <string name="UserPassword">User Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="RememberMe">Remember me</string>
+    <string name="DHA">Do not have an account</string>
+
+    <!--Register Activity Strings-->
+    <string name="BBUserName">Name</string>
+    <string name="BBUserEmail">Email</string>
+    <string name="BBUserPassword">Password</string>
+    <string name="BBUserAddress">Address</string>
+    <string name="BBUerPhoneNo">Phone No</string>
+    <string name="BBUserCNIC">CNIC</string>
+
+    <!--Become a Donor Details-->
+    <string name="Note1">Please Fill the form Carefully with Correct Information</string>
+    <string name="BBDFirstName">First Name</string>
+    <string name="BBDLastName">Last Name</string>
+    <string name="BBDCNIC">CNIC</string>
+    <string name="Gender">Gender</string>
+    <string name="BBDBloodGroup">Order Type</string>
+    <string name="BBDTestReport">Test Report</string>
+    <string name="BBDAnyDiesese">Any Disease</string>
+    <string name="BBDAddress">Any Address</string>
+    <string name="Longitute">Longitute</string>
+    <string name="Latitude">Latitude</string>
+
+    <!--HOME OF DONOR STRING-->
+    <string name="SignUp">Place Order</string>
+    <string name="FindADonor">Find Order</string>
+
+<!--Donor Details List-->
+    <string name="LocationDonor">Location</string>
+    <string name="Details">CARGO ORDER DETAILS</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="CNIC">CNIC</string>
+    <string name="BloodGroup">Blood Group</string>
+    <string name="GenderDetails">Gender</string>
+    <string name="AnyDeisese">Any Disease </string>
+    <string name="TestReport">Test Report Results</string>
+    <string name="Address">Address</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Latitude1">Latitude</string>
+    <string name="Dumy">-/-</string>
+<!--FIND DONOR ACTIVITY-->
+    <string name="SEARCH">Search Order</string>
+    <string name="DonorId">Order Id</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="LogOut">Log out</string>
+</resources>

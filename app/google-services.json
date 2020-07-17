@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326268225059",
+    "firebase_url": "https://cargobookingapp-db368.firebaseio.com",
+    "project_id": "cargobookingapp-db368",
+    "storage_bucket": "cargobookingapp-db368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326268225059:android:938ff56dbb36f154f6d396",
+        "android_client_info": {
+          "package_name": "com.pasksoftvalley.cargobookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326268225059-q0oqnsv46rfnmu4snl0vrj5b3amr4ufo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsCnryz0-G3tfJVWtgQGUji7ofhl3aA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326268225059-q0oqnsv46rfnmu4snl0vrj5b3amr4ufo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ScanDocument1"
+        android:enabled="true"
+        android:checkable="false"
+        android:icon="@drawable/ic_order"
+        android:visible="true"
+        android:onClick="AllCargoOrder"
+        android:title="@string/AllOrder"
+        />
+    <item
+        android:id="@+id/MakePdf1"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_white_24dp"
+        android:title="@string/Home"
+        android:onClick="Home"
+        android:visible="true"
+        />
+</menu>

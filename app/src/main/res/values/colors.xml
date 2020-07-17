@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#000000</color>
+    <color name="TextColor">#0e0e0e</color>
+    <color name="white">#ffffff</color>
+    <color name="BlackGray">#424242</color>
+    <color name="black">#000000</color>
+    <color name="Red">#81140C</color>
+    <color name="Green">#3D9110</color>
+    <color name="Blue">#03A9F4</color>
+    <color name="NavyBlue">#3F51B5</color>
+    <color name="SignUp">#2D3142</color>
+    <color name="Darkgray">#EAEAEB</color>
+</resources>
